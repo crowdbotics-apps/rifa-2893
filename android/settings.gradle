@@ -1,0 +1,3 @@
+rootProject.name = 'rifa_2893'
+
+include ':app'
